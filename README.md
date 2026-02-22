@@ -19,6 +19,17 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 ![Tech Stack](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### ☁️ Azure Service Tags
+![ADLS Gen2](https://img.shields.io/badge/Azure_ADLS_Gen2-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![SQL Database](https://img.shields.io/badge/Azure_SQL_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Event Hubs](https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+
 **Core Technologies Covered:**
 - **Cloud:** Azure (Blob Storage, ADLS Gen2, Data Factory, Synapse, Event Hub, Cosmos DB, Logic Apps, Functions), GCP (Dataproc, BigQuery, Pub/Sub).
 - **Data Processing:** Apache Spark (PySpark), Hive, Trino.
