@@ -184,6 +184,18 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 
 ---
 
+# 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗙𝗹𝗼𝘄 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 – 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗥𝗮𝘄 𝗗𝗮𝘁𝗮 𝗶𝗻𝘁𝗼 𝗔𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
+
+<img width="820" height="1282" alt="image" src="https://github.com/user-attachments/assets/8b523b13-6f5a-4fe8-9e3e-92370d06dcff" />
+<img width="804" height="654" alt="image" src="https://github.com/user-attachments/assets/ff0f6d29-b6e5-4c0a-9524-ccdf45fe75a6" />
+<img width="1094" height="557" alt="image" src="https://github.com/user-attachments/assets/174ba496-94d0-45b6-9b90-d090e04c88cd" />
+<img width="1087" height="566" alt="image" src="https://github.com/user-attachments/assets/986f3e20-89fe-4a46-9daf-90b9adb72ef5" />
+<img width="1085" height="569" alt="image" src="https://github.com/user-attachments/assets/2ec3cdee-f83d-4d81-97a3-ea57e0631cf8" />
+<img width="1075" height="566" alt="image" src="https://github.com/user-attachments/assets/de340bce-8003-4671-9338-9638f6a5674e" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
