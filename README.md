@@ -196,6 +196,58 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 
 ---
 
+# Azure And Big Data Engineer Master Program
+- Master in-demand data engineering skills from a real-time Lead
+- Data Engineer and get job-ready for high-paying roles.
+
+<img width="1372" height="585" alt="image" src="https://github.com/user-attachments/assets/23b7ad6f-594b-4e72-b8d9-0a7ea99f4cc1" />
+<img width="1354" height="552" alt="image" src="https://github.com/user-attachments/assets/23a8d3de-cb3c-4d22-ad07-b336d3b39590" />
+<img width="1404" height="610" alt="image" src="https://github.com/user-attachments/assets/6f9e9369-25d3-4f11-b8a0-e15dae3533d6" />
+<img width="811" height="650" alt="image" src="https://github.com/user-attachments/assets/3ad26ba4-e67c-47df-b8df-22e6c36327ad" />
+<img width="1370" height="642" alt="image" src="https://github.com/user-attachments/assets/86b9eefd-3432-42fd-8e72-37f508ce4742" />
+<img width="1371" height="635" alt="image" src="https://github.com/user-attachments/assets/5b8905df-66e6-4763-87b8-1eb9fd04d5c0" />
+<img width="1390" height="631" alt="image" src="https://github.com/user-attachments/assets/5fe18c99-b845-4312-a184-de58ba9db29b" />
+<img width="1387" height="631" alt="image" src="https://github.com/user-attachments/assets/601dc4db-d3c7-4128-b259-fb75884b368d" />
+<img width="1367" height="618" alt="image" src="https://github.com/user-attachments/assets/41eec912-9bd8-4873-8141-0d8fe84ebe9d" />
+<img width="1390" height="610" alt="image" src="https://github.com/user-attachments/assets/7185c884-14a9-4c13-be8b-07ec3792a3f6" />
+<img width="1393" height="617" alt="image" src="https://github.com/user-attachments/assets/4b0c336d-7aba-4bc1-b64b-7336e9fe8fae" />
+<img width="1372" height="592" alt="image" src="https://github.com/user-attachments/assets/f0484a5c-8d01-4d80-b192-5a06b4259c0e" />
+<img width="1358" height="608" alt="image" src="https://github.com/user-attachments/assets/cc2861a8-a735-4430-9df5-26f1a5c76491" />
+<img width="1348" height="614" alt="image" src="https://github.com/user-attachments/assets/e01cf843-a690-4c66-8e42-4255270b670b" />
+<img width="1354" height="608" alt="image" src="https://github.com/user-attachments/assets/9fb06467-43d7-4b54-a854-4ed76676e559" />
+<img width="1343" height="620" alt="image" src="https://github.com/user-attachments/assets/9314002b-86ed-45cf-9129-10d8bb80090b" />
+<img width="1359" height="616" alt="image" src="https://github.com/user-attachments/assets/25c72f41-8e6d-4dc6-9c88-5c0b19105275" />
+<img width="1327" height="618" alt="image" src="https://github.com/user-attachments/assets/bcf333ad-23da-4d72-ab34-0c66cd7559e7" />
+<img width="1336" height="605" alt="image" src="https://github.com/user-attachments/assets/aae50b6b-cf97-45a8-bd04-e01dd99563fa" />
+<img width="1188" height="638" alt="image" src="https://github.com/user-attachments/assets/ed38b63d-b7d3-4c26-94c5-8a711d7a1b27" />
+<img width="1382" height="629" alt="image" src="https://github.com/user-attachments/assets/2c4b778f-f18c-46bb-8bec-c5e65f0d6d59" />
+<img width="1368" height="667" alt="image" src="https://github.com/user-attachments/assets/ea9b2982-fb7d-4818-8f4a-b9bb260cf394" />
+<img width="1361" height="624" alt="image" src="https://github.com/user-attachments/assets/67bcb452-07f4-4e6b-ac8e-0c6ea79dd7e8" />
+<img width="1366" height="591" alt="image" src="https://github.com/user-attachments/assets/1557bc28-423c-4277-bc1e-cd0e583e4bed" />
+<img width="1373" height="638" alt="image" src="https://github.com/user-attachments/assets/f126dc85-2745-4ee2-b644-38802db9580f" />
+<img width="1387" height="619" alt="image" src="https://github.com/user-attachments/assets/19be96de-5cf8-4df9-a935-eff13559b421" />
+<img width="1387" height="617" alt="image" src="https://github.com/user-attachments/assets/544c5505-ed53-40bc-9d7a-6256177a7aab" />
+<img width="1369" height="626" alt="image" src="https://github.com/user-attachments/assets/c0cdaf2d-6bb0-46f6-8669-536eaf01d3f3" />
+<img width="1372" height="583" alt="image" src="https://github.com/user-attachments/assets/b61ab379-56e0-4fad-a605-b4c13218407c" />
+<img width="1379" height="612" alt="image" src="https://github.com/user-attachments/assets/646b65cb-8b73-4eaf-8e6a-429b52cae945" />
+<img width="1308" height="583" alt="image" src="https://github.com/user-attachments/assets/08490912-3329-441a-a6db-193bc086794d" />
+<img width="1376" height="621" alt="image" src="https://github.com/user-attachments/assets/1e6a3c87-5fe5-4d1f-8f4e-f669ebd263ee" />
+<img width="1385" height="602" alt="image" src="https://github.com/user-attachments/assets/58240336-91a2-4a53-bc21-7b5cdc16b9c1" />
+<img width="1373" height="619" alt="image" src="https://github.com/user-attachments/assets/89e866c9-1665-462a-90d3-cb3fb3b3e293" />
+<img width="1371" height="637" alt="image" src="https://github.com/user-attachments/assets/a9854890-662e-4db4-be3b-66d203c22894" />
+<img width="1361" height="610" alt="image" src="https://github.com/user-attachments/assets/1b81705a-d380-4cc5-8e08-4fb19994dc02" />
+<img width="1383" height="608" alt="image" src="https://github.com/user-attachments/assets/a5d53bfa-cbfe-4eef-8e24-edbe9517e137" />
+<img width="1369" height="627" alt="image" src="https://github.com/user-attachments/assets/85c41d8d-acf2-43fd-b770-ad2782fc2bfe" />
+<img width="1374" height="602" alt="image" src="https://github.com/user-attachments/assets/803ec1f0-6be8-4bc2-a6cc-b51816aa7af7" />
+<img width="1389" height="620" alt="image" src="https://github.com/user-attachments/assets/c246d611-33c0-44b1-acb2-c35737281de9" />
+<img width="828" height="626" alt="image" src="https://github.com/user-attachments/assets/dcfa8b54-8438-4723-aa41-c057cb99a1c4" />
+<img width="1344" height="553" alt="image" src="https://github.com/user-attachments/assets/03dfbdbd-c1d6-47ea-85fa-f52dbcbe1b8e" />
+<img width="1395" height="632" alt="image" src="https://github.com/user-attachments/assets/cc38f6fe-5408-4829-b433-673899fe8f31" />
+<img width="838" height="621" alt="image" src="https://github.com/user-attachments/assets/30a0e310-8023-4b48-a438-45f5957911cc" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
