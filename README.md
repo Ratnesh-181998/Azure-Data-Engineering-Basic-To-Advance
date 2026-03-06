@@ -173,6 +173,15 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 
 <img width="2874" height="1466" alt="image" src="https://github.com/user-attachments/assets/7a5926a3-a441-4445-9311-425942af3f78" />
 
+
+---
+
+# 𝗔𝘇𝘂𝗿𝗲 𝗖𝗜/𝗖𝗗 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀
+
+<img width="873" height="1118" alt="image" src="https://github.com/user-attachments/assets/b87185fa-3524-4c82-b3c6-76f2780e422a" />
+<img width="1173" height="1015" alt="image" src="https://github.com/user-attachments/assets/51f80a29-8cca-4313-8991-0f599d8506d3" />
+
+
 ---
 
 
