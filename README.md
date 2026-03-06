@@ -162,6 +162,21 @@ Welcome to the comprehensive repository for **Azure Data Engineering - Basic to 
 | 14 | **Airlines Incremental Processing** | Azure DevOps, ADF, ADLS, GitHub |
 | 15 | **Ride Analytics Pipeline (Uber/Ola)** | FastAPI, Docker, Cloud Run, Artifact Registry, GH Actions |
 
+
+---
+
+# Azure  𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐢𝐧 𝟐𝟎𝟐𝟔
+
+<img width="821" height="365" alt="image" src="https://github.com/user-attachments/assets/893589fb-80ec-4454-96a5-cf9cb85d4295" />
+
+<img width="2874" height="1466" alt="image" src="https://github.com/user-attachments/assets/7a5926a3-a441-4445-9311-425942af3f78" />
+
+
+
+---
+
+
+
 <img width="835" height="1341" alt="image" src="https://github.com/user-attachments/assets/24d65803-ec2f-4afd-b0df-0cd1c84d9725" />
 
 
